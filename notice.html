@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE>notice</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=euc-kr">
+
+<script language="JavaScript">  
+function setCookie( name, value, expiredays ) 
+{ 
+var todayDate = new Date(); 
+todayDate.setDate( todayDate.getDate() + expiredays ); 
+document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";" 
+} 
+ 
+function closeWin()  {
+{ 
+if ( document.cnjform.notice.checked )  // 폼네임 cnjform 은 동일해야 합니다.
+setCookie("CookieName", "no" , 1);   // 부모창에서 지정한 쿠키네임과 일치 해야 합니다.
+} 
+top.close();
+}
+</script>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<!-- ImageReady Slices (notice.psd) -->
+<TABLE WIDTH=350 height="491" BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <TR>
+		<TD>
+			<IMG SRC="images/notice_01.gif" WIDTH=350 HEIGHT=160 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/notice_02.gif" WIDTH=350 HEIGHT=160 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images/notice_03.gif" WIDTH=350 HEIGHT=130 ALT=""></TD>
+	</TR>
+	<TR>
+		
+    <TD height="31">
+<form name="cnjform"> 
+<input type="checkbox" name="notice" onclick="closeWin()">
+        <font size="2">체크하면 <font color="#FF0000">오늘</font> 하룻동안 페이지를 열지 않습니다. 
+        </font> 
+      </form> </TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+</BODY>
+</HTML>

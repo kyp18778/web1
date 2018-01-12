@@ -1,0 +1,210 @@
+<?
+$_zb_url="http://ypkim.cafe24.com/bbs/";
+$_zb_path= "/home/hosting_users/ypkim/www/bbs/";
+include $_zb_path."outlogin.php";
+?>
+<html>
+<head>
+<title>index</title>
+<style type="text/css">
+<!--
+
+a:link{
+text-decoration:none;
+font-family:"Arial", "Helvetica", "sans Serif";
+font-size:9pt;
+color:#444444;
+font-weight:bold;
+}
+
+a:visited{
+font-family:"Arial", "Helvetica", "sans Serif";
+font-size:9pt;
+color:#444444;
+text-decoration:none;
+}
+
+a:hover{
+font-family:"Arial", "Helvetica", "sans Serif";
+font-size:12pt;
+color:#3300cc;
+text-decoration:none;
+font-weight:bold;
+}
+
+
+//-->
+</style>
+
+<script Language="JavaScript">
+<!--
+function fun_open(){
+window.open("new_win2.html", "win_op", width=650, height=550)
+}
+//-->
+</script>
+
+<style>
+body{filter='progid:DXImageTransform.Microsoft.Gradient(gradientType=0,
+  StartColorStr=yellowgreen,  EndColorStr=#FFFFFF)'}    
+</style>
+
+<!-- 설명 "body 바로 위에 style 태그를 넣어 화면을 그라데이션으로 장식" 밑의 bg color는 위의 style 이 없을 때 반영됨
+-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr"></head>
+<body bgcolor= leftmargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width=1024 height=200 border=0 cellspasing=0 cellpadding=0>
+  <tr align=center>
+      
+    <td width="1043"> <img src=bg.jpg width=1024 height=200></td>
+  </tr>
+</table>
+<table align=center width=800 height=25 border=0 cellspasing=0 cellpadding=0>
+  <tr align=center valign=bottom> 
+     
+      
+    <td width=81 bgcolor=#FF0000><a href=index.php>Home</a></td>
+      
+    <td width=77 bgcolor=#99CCCC><a href=a/home_main.swf>가족소개</a></td>
+      
+    <td width=77 bgcolor=yellow><a href=history.htm>전주김씨</a></td>
+      
+    <td width=106 bgcolor=#FFFFCC><a href=firstname.htm><font color="#000000">한국의성씨</font></a></td>
+    <td width=97 bgcolor=#CCFFFF><a href=alcohol.htm>음주운전</a></td>
+    <td width="89" bgcolor= #CCCCCC> <a href=http://ypkim.cafe24.com/bbs/zboard.php?id=bbs_01>자유게시판</a></td>      
+<td width="86" bgcolor=yellow ><a href="http://ypkim.cafe24.com/bbs/zboard.php?id=bbs_02">가족대화방</a></td>
+      
+      
+    <td width="88" bgcolor=#CCFFFF><a href=recommend.htm>추천싸이트</a></td>
+    <td width="79" bgcolor=#FFCCFF><a href=http://ypkim.cafe24.com/bbs/zboard.php?id=record>자료실</a></td>
+  </tr>
+</table>
+
+
+
+
+
+<br>
+<table align="center" border="0" width="800" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="800" height="85"> <p>&nbsp;<img src="rogo(alcohol).gif" width="400" height="85" border="0"></p></td>
+  </tr>
+  <tr> 
+    <td width="800"> <table width="799" align="center" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td height="1053">&nbsp; </td>
+          <td height="1053">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14pt;"><b><font color="#3300FF">우리나라의 
+              음주 문화<br>
+              &nbsp;</font></b></span>            <table align="center" border="0" width="90%">
+              <tr> 
+                <td width="690"> <p><span style="font-size:10pt;">&nbsp;&nbsp;&nbsp;우리나라의 
+                    술과 관계되는 문헌을 찾아보면 중국의 역사책인 &quot;三國志 魏志東夷傳&quot;에서 찾을 수 있는데 
+                    그 내용을 보면 우리 선조들을 <font color="#CC0000">&quot;飮酒歌舞를 즐기는 民族&quot;</font>이라고 
+                    표현하였다.</span></p></td>
+              </tr>
+              <tr> 
+                <td width="690"> <p><span style="font-size:10pt;">&nbsp;&nbsp;&nbsp;예나 
+                    지금이나 우리의 인간 관계 형성을 술과 함께 시작되었다고 할 정도로 삶의 곳곳에서는 술과 밀접한 관계를 
+                    가지고 있다.<br>
+                    &nbsp;&nbsp;</span></p></td>
+              </tr>
+            </table>
+            <table align="center" border="0" width="90%">
+              <tr> 
+                <td width="690"> <p><span style="font-size:11pt;">&nbsp;&nbsp;&nbsp;</span><span style="font-size:10pt;">작년 
+                    국내 술 소비량을 보면 20세 이상 성인의 술 소비량은 &nbsp;10.2 리터(순수 알코올)로 이는 &nbsp;OECD 
+                    회원국 평균 2.13 리터의 5.6배를 마신다.</span></p>
+                  <p><span style="font-size:10pt;">1인당 년간 &nbsp;술 소비량&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;맥주 
+                    &nbsp;&nbsp;118병, 소주 82병, 위스키 1.7병</span></p></td>
+              </tr>
+            </table>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14pt;"><b><font color="#3300FF">주취운전</font></b></span></p>
+            <table align="center" border="0" width="90%">
+              <tr> 
+                <td width="690"> <p><span style="font-size:10pt;">&nbsp;&nbsp;&nbsp;일반적으로 
+                    음주운전이란 단순히 술을 마시고 운전을 하는 행위를 말하는 것이며, 주취운전이란 <font color="#CC0000">혈중 
+                    알코올 농도가 0.05%이상 으로 운전이 금지되는 &quot;법적인 술에 취한 상태로 운전을 하는 행위</font>&quot;를 
+                    말한다.</span></p></td>
+              </tr>
+              <tr> 
+                <td width="690"> <p><span style="font-size:10pt;">&nbsp;</span></p>
+                  <p><span style="font-size:10pt;">&nbsp;&nbsp;일반적으로 혈중 알코올 농도가 
+                    0.05%는 &nbsp;사람의 체질이나 심신상태, 성별, 체중에 따라 다르나 보통의 성인 남자는 소주 약 
+                    2.5잔, 양주 약 2잔, 포도주 약 2잔, 맥주 약 2캔 정도를 마신 후 약 1시간이 경과할 때에 나타나는 
+                    수치이다.</span></p></td>
+              </tr>
+            </table>
+            <p>&nbsp;&nbsp;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14pt;"><b><font color="#3300FF">주취운전자 
+              처벌 규정</font></b></span></p>
+            <table align="center" border="1" width="629">
+              <tr> 
+                <td width="226"> <p><span style="font-size:12pt;">&nbsp;</span></p></td>
+                <td width="226"> <p align="center"><span style="font-size:10pt;">0.05% 
+                    이상 - 0.1% 미만</span></p></td>
+                <td width="155"> <p align="center"><span style="font-size:10pt;">0.1% 
+                    이상</span></p></td>
+              </tr>
+              <tr> 
+                <td width="226"> <p><span style="font-size:10pt;">&nbsp;&nbsp;사고 
+                    없이 적발<br>
+                    &nbsp;&nbsp;대물사고</span></p></td>
+                <td width="226"> <p><span style="font-size:10pt;">&nbsp;&nbsp;100일간<font color="#CC0000"> 
+                    면허 정지</font><br>
+                    &nbsp;&nbsp;형사입건</span></p></td>
+                <td width="155" rowspan="2"> <p><span style="font-size:10pt;">&nbsp;<font color="#CC0000">면허 
+                    취소</font><br>
+                    &nbsp;형사 &nbsp;입건</span></p></td>
+              </tr>
+              <tr> 
+                <td width="226"> <p><span style="font-size:10pt;">&nbsp;&nbsp;대인 
+                    사고</span></p></td>
+                <td width="226"> <p><span style="font-size:10pt;">&nbsp;&nbsp;<font color="#CC0000">면허 
+                    취소</font><br>
+                    &nbsp;&nbsp;&nbsp;형사입건</span></p></td>
+              </tr>
+              <tr> 
+                <td width="226"> <p><span style="font-size:10pt;">&nbsp;&nbsp;음주측정 
+                    불응</span></p></td>
+                <td width="387" colspan="2"> <p><span style="font-size:10pt;">&nbsp;&nbsp;형사 
+                    입건, <font color="#CC0000">면허 취소</font><br>
+                    &nbsp;&nbsp;(재측정 가능)</span></p></td>
+              </tr>
+            </table>
+            <p><span style="font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***. 
+              &nbsp;형사입건 : 혈중알코올 농도 0.1% 이상, 대인사고 피해정도 6주 이상 &nbsp;- &nbsp;&nbsp;구속<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;혈중알코올 
+              농도 0.2% 이상, 대인사고 피해정도 3주 이상 &nbsp;- &nbsp;&nbsp;구속</span></p>
+            <p>&nbsp;&nbsp;</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:14pt;"><b><font color="#3300FF">외국의 
+              주취운전자 처벌 규정</font></b></span></p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:13pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:10pt;">&nbsp;&nbsp;*. 
+              미국 &nbsp;&nbsp;&nbsp;: 0.08 - 0.1%(각 주별로 상이함)<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*. 
+              영국 &nbsp;&nbsp;&nbsp;: 0.08%<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*. 
+              캐나다 : 0.08%<br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*. 
+              스웨덴 : 0.02%(서구에서 가장 엄격함)</span></p>
+            <p><span style="font-size:10pt;">&nbsp;</span></p>
+            <p><span style="font-size:10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***. 
+              참고문헌 &nbsp;: &nbsp;도로교통안전관리공단(2003). &nbsp;안전운전, &nbsp;서울 : 신생보훈복지인쇄조합.</span></p>
+                        <p><span style="font-size:10pt;">&nbsp;</span></p>
+            </td>
+          <p> </tr>
+      </table></td>
+  </tr>
+</table>
+<table align=center width=800 height=25 border=0 cellspasing=0 cellpadding=0>
+  <tr align=center valign=bottom> 
+     
+      <td width=650 bgcolor=#ccccff><font size=2>Copyright 2004.01.  y.p.kim  All Rights Reserved    </font></td>
+     
+  </tr>
+</table>
+</body>
+
+</html>
+
